@@ -1,0 +1,3 @@
+ Apple_scab
+ Powdery_mildew
+ Bacterial_spot
