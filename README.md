@@ -12,9 +12,4 @@ Teachable Machine: Google's platform for training machine learning models.
 Firebase: Backend services for authentication and data storage.
 Flutter Packages: Utilizes various packages for UI design, state management.
 Screenshots
-<div align="center">
-  <img src="![505fe0a9-aee0-4272-8a54-4d04b65fa900](https://github.com/kharsh807/farmApp/assets/121211344/0b920b49-39f2-459b-86d2-c9415118c8e9)" alt="Screenshot 1" width="200"/>
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="200"/>
-  <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="200"/>
-  <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="200"/>
-</div>
+![505fe0a9-aee0-4272-8a54-4d04b65fa900](https://github.com/kharsh807/farmApp/assets/121211344/0b920b49-39f2-459b-86d2-c9415118c8e9)
